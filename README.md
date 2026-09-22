@@ -443,7 +443,7 @@ The information collected during enumeration can then be compared against known 
 
 # 🖥️ Screenshots
 
-Screenshots documenting the laboratory are stored in the `screenshots/` directory.
+
 
 ## VirtualBox Configuration
 
